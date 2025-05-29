@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/extract-website.ts": {
+      "maxDuration": 30
+    }
+  },
+  "regions": ["iad1"]
+} 
